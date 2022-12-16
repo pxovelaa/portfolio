@@ -22,7 +22,7 @@ export const projectList = [
         image: Business,
         skills: 'ReactJS, Javascript, Tailwind CSS, CSS',
         link: 'https://github.com/pxovelaa/modern-bussines-website',
-        website: "quiet-praline-2ff7f1.netlify.app/"
+        website: "https://pxovlea-business.netlify.app/"
     },
     {
         name: 'Sapatriarqo Website',
