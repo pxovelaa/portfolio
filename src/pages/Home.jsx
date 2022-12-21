@@ -2,13 +2,15 @@ import React from "react";
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import EmailIcon from '@material-ui/icons/Email';
 import GithubIcon from '@material-ui/icons/GitHub';
-import '../styles/Home.css'
+import '../styles/Home.css';
+import ProfileImg from '../assets/ProfileImage.jpg';
 
 function Home() {
   return (
     <div className="home">
       <div className="about">
         <h2>Hi, My Name is Giorgi</h2>
+        <img src={ProfileImg} alt="profile-image" />
         <div className="prompt">
           <p>A Fornt-end ( React.js ) developer</p>
           <a target='_blank' href="https://www.linkedin.com/in/giorgi-pkhovelishvili-8b48701a1/"><LinkedInIcon /></a>

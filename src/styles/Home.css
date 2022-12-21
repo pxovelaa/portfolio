@@ -23,6 +23,10 @@
     color: #e9d35b;
     height: 50px;
   }
+
+  .about img {
+    height: calc(100% - 400px);
+  }
   
   .about .prompt {
     width: 40%;
