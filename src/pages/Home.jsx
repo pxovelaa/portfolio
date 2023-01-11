@@ -10,7 +10,7 @@ function Home() {
     <div className="home">
       <div className="about">
         <h2>Hi, My Name is Giorgi</h2>
-        <img src={ProfileImg} alt="profile-image" />
+        <img src={ProfileImg} alt="profile" />
         <div className="prompt">
           <p>A Fornt-end ( React.js ) developer</p>
           <a target='_blank' href="https://www.linkedin.com/in/giorgi-pkhovelishvili-8b48701a1/"><LinkedInIcon /></a>

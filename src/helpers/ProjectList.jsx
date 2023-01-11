@@ -7,6 +7,7 @@ import Expenses from '../assets/Expenses.png';
 import Project4 from '../assets/Project4.png';
 import Redberry from '../assets/Redberry.png';
 import Business from '../assets/Business.png';
+import GPT3 from '../assets/GPT3.png';
 
 
 export const projectList = [
@@ -16,6 +17,13 @@ export const projectList = [
         skills: 'ReactJS, Javascript, MaterialUI, CSS',
         link: 'https://github.com/pxovelaa/youtube-clone-app',
         website: "https://asyoutube.netlify.app"
+    },
+    {
+        name: 'GPT3 app',
+        image: GPT3,
+        skills: 'ReactJS, Javascript, Styled COmponents, CSS',
+        link: 'https://github.com/pxovelaa/gpt3_pxovela',
+        website: "gpt3-pxovela.netlify.app/"
     },
     {
         name: 'Business app',
